@@ -36,20 +36,20 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** and a 2025 **Com
 ## 💼 Experience
 
 ### 👨‍💻 Frontend Developer Intern — *RegisterKaro (Apr 2025 – Present)*
-- Built SEO-optimized service pages with Next.js SSR/SSG
-- Improved UX consistency and load speed across browsers
-- Boosted performance via Redux and lazy loading
+- Developed SEO-optimized service and legal pages using Next.js (SSR/SSG), improving visibility and user reach.
+- Achieved 95%+ UX consistency across all major browsers through responsive design and rigorous testing.
+- Optimized performance with Redux-based state management and lazy loading, reducing page load times by 25% and enhancing Core Web Vitals.
 
 ### 🧑‍💻 Software Developer Intern — *GI Technology (Jun – Aug 2024)*
-- Developed a mobile app with 100K+ downloads
-- Enhanced system stability by reducing post-release bugs
-
+- Contributed to a mobile app that achieved 100K+ downloads in its first month through responsive and engaging UI design.
+- Collaborated with QA to fix critical bugs, leading to a 25% drop in post-release issues and improved user satisfaction.
+- Revamped web modules, reducing system downtime by 15% and improving overall application stability.
 ---
 
 ## 🔥 Featured Projects
 
 ### 🌐 [Workify: AI-Powered Career Platform](https://workify-frontend.vercel.app/)
-A full-featured MERN job portal with resume parsing, JWT/Auth0 auth & AI chatbot  
+A full-featured MERN job portal with resume parsing, ATS checker, JWT/Auth0 auth & AI chatbot ,24*7 Email support for Help.  
 📌 [GitHub Repo](https://github.com/ankit1390023/Workify_frontend)
 
 ---
